@@ -1,0 +1,11 @@
+TripID,Date,City,DriverID,DistanceKM,FareAmount,PaymentType
+1,2025-01-01,New York,D101,12,25,Card
+2,2025-01-01,Chicago,D102,8,18,Cash
+3,2025-01-02,New York,D101,15,32,Card
+4,2025-01-02,Los Angeles,D103,20,45,Card
+5,2025-01-03,Chicago,D104,10,22,Cash
+6,2025-01-03,Houston,D105,18,38,Card
+7,2025-01-04,Phoenix,D106,9,19,Cash
+8,2025-01-04,New York,D107,14,30,Card
+9,2025-01-05,Los Angeles,D103,11,26,Cash
+10,2025-01-05,Houston,D105,16,34,Card
