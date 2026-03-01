@@ -1,0 +1,2 @@
+TripID,Date,City,DriverID,DistanceKM,FareAmount,PaymentType
+11,2025-01-06,Delhi,D105,12,36,Card
